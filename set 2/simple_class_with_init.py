@@ -1,4 +1,4 @@
-# creating class dog
+# creating class car
 class car:
 	def __init__(self, brand, type):
 		self.brand=brand
